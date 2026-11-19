@@ -1,4 +1,9 @@
-# 🌱 AgroSentry
+#  AgroSentry
+###  AgroSentry Banner
+
+![AgroSentry Banner](docs/banner.png)
+
+---
 ### AI-Powered Crop Health Intelligence Platform
 
 AgroSentry is an AI-powered crop disease detection platform that combines **Deep Learning, Grad-CAM Explainable AI, and Disease Analytics** to help identify plant diseases from leaf images.
@@ -67,37 +72,28 @@ The platform includes two application interfaces that share a common inference a
 
 ---
 
-##  Project Screenshots
 
-\<p align="center">
-&#x20; \<img src="docs/banner.png" alt="AgroSentry Project Banner" width="100%">
-\</p>
+## Project Screenshots
 
 ### 1. Disease Detection
 
-\<p align="center">
-&#x20; \<img src="docs/screenshot-detection.png" alt="AgroSentry Disease Detection" width="90%">
-\</p>
+![Disease Detection](docs/screenshot-detection.png)
 
 ### 2. Dashboard
 
-\<p align="center">
-&#x20; \<img src="docs/screenshot-dashboard.png" alt="AgroSentry Analytics Dashboard" width="90%">
-\</p>
+![Dashboard](docs/screenshot-dashboard.png)
 
 ### 3. Explainable AI – Grad-CAM
 
-\<p align="center">
-&#x20; \<img src="docs/screenshot-explainability.png" alt="AgroSentry Grad-CAM Explainability" width="90%">
-\</p>
+![Grad-CAM Explainability](docs/screenshot-explainability.png)
 
 ### 4. Disease Knowledge Base
 
-\<p align="center">   \<img src="docs/screenshot-knowledge.png" alt="AgroSentry Disease Knowledge Base" width="90%"> \</p>
+![Disease Knowledge](docs/screenshot-knowledge.png)
 
 ### 5. Prediction Analytics
 
-\<p align="center">   \<img src="docs/screenshot-analytics.png" alt="AgroSentry Prediction Analytics" width="90%"> \</p>
+![Prediction Analytics](docs/screenshot-analytics.png)
 
 
 | Module | Screenshot |
