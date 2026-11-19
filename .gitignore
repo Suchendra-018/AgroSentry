@@ -1,0 +1,34 @@
+# Virtual environments
+.venv/
+.venv*/
+venv/
+myenv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Generated output
+outputs/history.csv
+
+# Logs and temporary files
+*.log
+temp/
+tmp/
+
+# OS files
+.DS_Store
+Thumbs.db

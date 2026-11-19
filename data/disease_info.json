@@ -1,0 +1,1399 @@
+{
+  "Apple___Apple_scab": {
+    "display_name": "Apple Scab",
+    "scientific_name": "Venturia inaequalis",
+    "crop": "Apple",
+    "disease_type": "Fungal",
+    "severity": "Moderate to High",
+    "description": "Apple scab is a common fungal disease that affects leaves, fruits, and young shoots. It thrives in cool, wet conditions and can significantly reduce fruit quality and yield if left unmanaged.",
+    "symptoms": [
+      "Olive-green to dark brown spots on leaves",
+      "Velvety lesions on leaf surfaces",
+      "Dark, corky spots on fruits",
+      "Premature leaf drop",
+      "Cracked or deformed fruits"
+    ],
+    "treatment": [
+      "Remove infected leaves and fallen debris.",
+      "Prune trees to improve air circulation.",
+      "Apply recommended fungicides during the growing season."
+    ],
+    "prevention": [
+      "Use resistant apple varieties whenever possible.",
+      "Maintain orchard sanitation.",
+      "Avoid prolonged leaf wetness.",
+      "Monitor trees regularly during spring."
+    ],
+    "organic_control": [
+      "Apply sulfur-based fungicides as recommended.",
+      "Use neem-based products where appropriate.",
+      "Remove infected plant material promptly."
+    ],
+    "chemical_control": [
+      "Use registered fungicides according to local agricultural recommendations.",
+      "Rotate fungicides with different modes of action to reduce resistance."
+    ],
+    "farmer_tips": [
+      "Inspect orchards after rainy periods.",
+      "Collect and destroy fallen infected leaves every season.",
+      "Avoid excessive irrigation on foliage."
+    ]
+  },
+
+  "Apple___Black_rot": {
+    "display_name": "Apple Black Rot",
+    "scientific_name": "Botryosphaeria obtusa",
+    "crop": "Apple",
+    "disease_type": "Fungal",
+    "severity": "High",
+    "description": "Black rot is a destructive fungal disease affecting leaves, fruits, and branches. It can reduce yield considerably when environmental conditions favor fungal development.",
+    "symptoms": [
+      "Purple leaf spots with brown centers",
+      "Black circular lesions on fruits",
+      "Fruit shriveling and mummification",
+      "Cankers on branches"
+    ],
+    "treatment": [
+      "Remove infected fruits and branches.",
+      "Prune diseased wood during dormancy.",
+      "Apply recommended fungicides."
+    ],
+    "prevention": [
+      "Maintain orchard cleanliness.",
+      "Remove mummified fruits.",
+      "Prune trees to improve airflow."
+    ],
+    "organic_control": [
+      "Remove infected tissues immediately.",
+      "Improve canopy ventilation.",
+      "Use approved organic fungicides where suitable."
+    ],
+    "chemical_control": [
+      "Apply registered fungicides during susceptible growth stages.",
+      "Follow local extension recommendations."
+    ],
+    "farmer_tips": [
+      "Never leave infected fruits on trees.",
+      "Disinfect pruning tools regularly.",
+      "Monitor orchards after humid weather."
+    ]
+  },
+
+  "Apple___Cedar_apple_rust": {
+    "display_name": "Cedar Apple Rust",
+    "scientific_name": "Gymnosporangium juniperi-virginianae",
+    "crop": "Apple",
+    "disease_type": "Fungal",
+    "severity": "Moderate",
+    "description": "Cedar apple rust is a fungal disease requiring both apple and juniper hosts to complete its life cycle. It primarily affects leaves and fruits.",
+    "symptoms": [
+      "Bright yellow or orange leaf spots",
+      "Orange lesions on fruits",
+      "Premature leaf fall",
+      "Reduced fruit quality"
+    ],
+    "treatment": [
+      "Remove nearby infected juniper hosts if practical.",
+      "Apply preventive fungicides during early infection periods."
+    ],
+    "prevention": [
+      "Plant resistant cultivars.",
+      "Maintain adequate tree spacing.",
+      "Monitor orchards during spring."
+    ],
+    "organic_control": [
+      "Remove alternate hosts where feasible.",
+      "Improve airflow around trees."
+    ],
+    "chemical_control": [
+      "Apply preventive fungicides before infection periods according to local recommendations."
+    ],
+    "farmer_tips": [
+      "Inspect leaves regularly during spring.",
+      "Avoid planting susceptible apple trees close to infected junipers."
+    ]
+  },
+
+  "Apple___healthy": {
+    "display_name": "Healthy Apple Leaf",
+    "scientific_name": "Malus domestica",
+    "crop": "Apple",
+    "disease_type": "Healthy",
+    "severity": "None",
+    "description": "The leaf appears healthy with no visible symptoms of disease or significant pest damage.",
+    "symptoms": [
+      "Uniform green leaf color",
+      "No lesions or discoloration",
+      "Normal leaf shape",
+      "Healthy plant growth"
+    ],
+    "treatment": [
+      "No treatment is required."
+    ],
+    "prevention": [
+      "Continue routine orchard monitoring.",
+      "Maintain balanced fertilization.",
+      "Follow good irrigation practices.",
+      "Prune trees regularly."
+    ],
+    "organic_control": [
+      "Maintain healthy soil using organic matter.",
+      "Encourage beneficial insects."
+    ],
+    "chemical_control": [
+      "No chemical treatment is necessary."
+    ],
+    "farmer_tips": [
+      "Continue regular scouting.",
+      "Maintain orchard sanitation.",
+      "Monitor weather conditions that favor disease development."
+    ]
+  },
+    "Blueberry___healthy": {
+    "display_name": "Healthy Blueberry Leaf",
+    "scientific_name": "Vaccinium spp.",
+    "crop": "Blueberry",
+    "disease_type": "Healthy",
+    "severity": "None",
+    "description": "The blueberry leaf appears healthy with no visible signs of disease, nutrient deficiency, or pest damage.",
+    "symptoms": [
+      "Bright green foliage",
+      "No spots or lesions",
+      "Normal leaf shape",
+      "Healthy plant growth"
+    ],
+    "treatment": [
+      "No treatment is required."
+    ],
+    "prevention": [
+      "Maintain proper soil acidity.",
+      "Avoid overwatering.",
+      "Monitor plants regularly for early disease detection.",
+      "Apply balanced fertilization."
+    ],
+    "organic_control": [
+      "Maintain healthy soil using compost.",
+      "Encourage beneficial insects."
+    ],
+    "chemical_control": [
+      "No chemical treatment is necessary."
+    ],
+    "farmer_tips": [
+      "Continue routine field monitoring.",
+      "Prune weak or damaged branches.",
+      "Maintain proper irrigation."
+    ]
+  },
+
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "display_name": "Cherry Powdery Mildew",
+    "scientific_name": "Podosphaera clandestina",
+    "crop": "Cherry",
+    "disease_type": "Fungal",
+    "severity": "Moderate",
+    "description": "Powdery mildew is a fungal disease that produces white powder-like fungal growth on leaves and young shoots. Severe infections can reduce plant vigor and fruit quality.",
+    "symptoms": [
+      "White powdery coating on leaves",
+      "Leaf curling",
+      "Distorted young shoots",
+      "Reduced plant growth"
+    ],
+    "treatment": [
+      "Remove infected plant parts.",
+      "Improve air circulation.",
+      "Apply appropriate fungicides when necessary."
+    ],
+    "prevention": [
+      "Avoid overcrowding.",
+      "Prune trees regularly.",
+      "Avoid excessive nitrogen fertilization."
+    ],
+    "organic_control": [
+      "Apply sulfur-based fungicides where appropriate.",
+      "Use neem oil according to recommendations."
+    ],
+    "chemical_control": [
+      "Apply registered fungicides following agricultural guidelines."
+    ],
+    "farmer_tips": [
+      "Inspect new shoots regularly.",
+      "Maintain proper spacing between trees.",
+      "Avoid overhead irrigation whenever possible."
+    ]
+  },
+
+  "Cherry_(including_sour)___healthy": {
+    "display_name": "Healthy Cherry Leaf",
+    "scientific_name": "Prunus cerasus",
+    "crop": "Cherry",
+    "disease_type": "Healthy",
+    "severity": "None",
+    "description": "The cherry leaf appears healthy with no visible disease symptoms or pest infestation.",
+    "symptoms": [
+      "Uniform green color",
+      "Healthy leaf texture",
+      "No lesions",
+      "Normal growth"
+    ],
+    "treatment": [
+      "No treatment is required."
+    ],
+    "prevention": [
+      "Maintain balanced nutrition.",
+      "Monitor trees regularly.",
+      "Prune annually for better airflow."
+    ],
+    "organic_control": [
+      "Maintain healthy soil.",
+      "Promote beneficial microorganisms."
+    ],
+    "chemical_control": [
+      "No chemical treatment is necessary."
+    ],
+    "farmer_tips": [
+      "Inspect trees after rainfall.",
+      "Continue preventive orchard management.",
+      "Maintain orchard sanitation."
+    ]
+  },
+
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "display_name": "Corn Gray Leaf Spot",
+    "scientific_name": "Cercospora zeae-maydis",
+    "crop": "Corn (Maize)",
+    "disease_type": "Fungal",
+    "severity": "High",
+    "description": "Gray leaf spot is one of the most economically important fungal diseases of corn. It develops rapidly under warm, humid conditions and can significantly reduce grain yield.",
+    "symptoms": [
+      "Long rectangular gray lesions",
+      "Lesions parallel to leaf veins",
+      "Premature drying of leaves",
+      "Reduced photosynthesis"
+    ],
+    "treatment": [
+      "Apply recommended fungicides during early infection.",
+      "Rotate crops to reduce inoculum.",
+      "Remove infected crop residues."
+    ],
+    "prevention": [
+      "Use resistant hybrids.",
+      "Practice crop rotation.",
+      "Avoid continuous corn cultivation."
+    ],
+    "organic_control": [
+      "Rotate with non-host crops.",
+      "Incorporate crop residues into soil after harvest."
+    ],
+    "chemical_control": [
+      "Apply registered foliar fungicides according to local agricultural recommendations."
+    ],
+    "farmer_tips": [
+      "Monitor lower leaves first.",
+      "Scout fields during humid weather.",
+      "Avoid planting susceptible hybrids repeatedly."
+    ]
+  },
+
+  "Corn_(maize)___Common_rust_": {
+    "display_name": "Corn Common Rust",
+    "scientific_name": "Puccinia sorghi",
+    "crop": "Corn (Maize)",
+    "disease_type": "Fungal",
+    "severity": "Moderate",
+    "description": "Common rust is a fungal disease that produces reddish-brown pustules on both leaf surfaces. Severe infections may reduce plant vigor and yield.",
+    "symptoms": [
+      "Small reddish-brown pustules",
+      "Pustules on both leaf surfaces",
+      "Leaf yellowing",
+      "Reduced photosynthetic activity"
+    ],
+    "treatment": [
+      "Apply fungicides if disease pressure is high.",
+      "Monitor crop during humid conditions."
+    ],
+    "prevention": [
+      "Grow resistant hybrids.",
+      "Monitor fields regularly.",
+      "Maintain balanced crop nutrition."
+    ],
+    "organic_control": [
+      "Promote healthy plant growth through proper nutrient management.",
+      "Remove volunteer corn plants."
+    ],
+    "chemical_control": [
+      "Use registered fungicides when economically justified."
+    ],
+    "farmer_tips": [
+      "Inspect leaves weekly.",
+      "Take action early if infection spreads rapidly."
+    ]
+  },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+    "display_name": "Corn Northern Leaf Blight",
+    "scientific_name": "Exserohilum turcicum",
+    "crop": "Corn (Maize)",
+    "disease_type": "Fungal",
+    "severity": "High",
+    "description": "Northern leaf blight is a major fungal disease of maize characterized by large cigar-shaped lesions. Severe infections reduce photosynthesis and significantly decrease grain yield.",
+    "symptoms": [
+      "Long cigar-shaped gray-green lesions",
+      "Lesions turn tan as they mature",
+      "Premature drying of leaves",
+      "Reduced grain filling"
+    ],
+    "treatment": [
+      "Apply recommended foliar fungicides when disease pressure is high.",
+      "Remove infected crop residues.",
+      "Practice crop rotation."
+    ],
+    "prevention": [
+      "Grow resistant maize hybrids.",
+      "Avoid continuous maize cultivation.",
+      "Maintain field sanitation."
+    ],
+    "organic_control": [
+      "Rotate crops with non-host species.",
+      "Destroy infected plant debris after harvest."
+    ],
+    "chemical_control": [
+      "Use registered fungicides following local agricultural recommendations."
+    ],
+    "farmer_tips": [
+      "Scout fields regularly after rainy periods.",
+      "Avoid planting susceptible hybrids repeatedly.",
+      "Monitor lower leaves first."
+    ]
+  },
+
+  "Corn_(maize)___healthy": {
+    "display_name": "Healthy Corn Leaf",
+    "scientific_name": "Zea mays",
+    "crop": "Corn (Maize)",
+    "disease_type": "Healthy",
+    "severity": "None",
+    "description": "The corn plant appears healthy with normal green leaves and no visible disease symptoms.",
+    "symptoms": [
+      "Uniform green leaves",
+      "Normal leaf development",
+      "No lesions or discoloration",
+      "Healthy plant vigor"
+    ],
+    "treatment": [
+      "No treatment is required."
+    ],
+    "prevention": [
+      "Maintain balanced fertilization.",
+      "Ensure proper irrigation.",
+      "Continue routine crop monitoring."
+    ],
+    "organic_control": [
+      "Maintain healthy soil through organic amendments.",
+      "Encourage beneficial soil microorganisms."
+    ],
+    "chemical_control": [
+      "No chemical treatment is necessary."
+    ],
+    "farmer_tips": [
+      "Inspect crops weekly.",
+      "Maintain proper nutrient management.",
+      "Monitor pest populations regularly."
+    ]
+  },
+
+  "Grape___Black_rot": {
+    "display_name": "Grape Black Rot",
+    "scientific_name": "Guignardia bidwellii",
+    "crop": "Grape",
+    "disease_type": "Fungal",
+    "severity": "High",
+    "description": "Black rot is a destructive fungal disease affecting grape leaves, shoots, and berries. It develops rapidly under warm, humid conditions.",
+    "symptoms": [
+      "Brown circular leaf lesions",
+      "Black fruit rot",
+      "Shriveled berries",
+      "Dark lesions on shoots"
+    ],
+    "treatment": [
+      "Remove infected fruits and shoots.",
+      "Apply fungicides during the growing season.",
+      "Improve vineyard airflow."
+    ],
+    "prevention": [
+      "Maintain vineyard sanitation.",
+      "Prune vines annually.",
+      "Remove mummified fruits."
+    ],
+    "organic_control": [
+      "Remove infected plant material promptly.",
+      "Improve air circulation through pruning."
+    ],
+    "chemical_control": [
+      "Use registered fungicides according to local recommendations."
+    ],
+    "farmer_tips": [
+      "Inspect grape clusters frequently.",
+      "Remove infected berries immediately.",
+      "Avoid excessive canopy density."
+    ]
+  },
+
+  "Grape___Esca_(Black_Measles)": {
+    "display_name": "Grape Esca (Black Measles)",
+    "scientific_name": "Phaeomoniella chlamydospora and associated fungi",
+    "crop": "Grape",
+    "disease_type": "Fungal",
+    "severity": "High",
+    "description": "Esca is a complex grapevine trunk disease that reduces vine productivity and may eventually kill infected plants.",
+    "symptoms": [
+      "Tiger-stripe leaf pattern",
+      "Dark spots on berries",
+      "Wood discoloration",
+      "Sudden vine decline"
+    ],
+    "treatment": [
+      "Remove severely infected vines.",
+      "Prune infected wood carefully.",
+      "Protect pruning wounds."
+    ],
+    "prevention": [
+      "Use healthy planting material.",
+      "Avoid unnecessary trunk injuries.",
+      "Disinfect pruning tools."
+    ],
+    "organic_control": [
+      "Remove infected branches promptly.",
+      "Maintain vine vigor through proper management."
+    ],
+    "chemical_control": [
+      "No fully curative chemical treatment is available; follow regional recommendations for pruning wound protection."
+    ],
+    "farmer_tips": [
+      "Inspect trunks annually.",
+      "Remove dead wood.",
+      "Protect pruning wounds immediately after pruning."
+    ]
+  },
+
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "display_name": "Grape Leaf Blight",
+    "scientific_name": "Pseudocercospora vitis",
+    "crop": "Grape",
+    "disease_type": "Fungal",
+    "severity": "Moderate",
+    "description": "Leaf blight affects grape foliage, reducing photosynthesis and weakening vine growth during favorable environmental conditions.",
+    "symptoms": [
+      "Brown angular leaf spots",
+      "Yellowing around lesions",
+      "Premature leaf drop",
+      "Reduced vine vigor"
+    ],
+    "treatment": [
+      "Remove infected leaves.",
+      "Improve canopy ventilation.",
+      "Apply recommended fungicides."
+    ],
+    "prevention": [
+      "Avoid excessive irrigation on foliage.",
+      "Maintain vineyard sanitation.",
+      "Prune regularly."
+    ],
+    "organic_control": [
+      "Remove diseased foliage.",
+      "Maintain proper vine spacing."
+    ],
+    "chemical_control": [
+      "Apply registered fungicides according to agricultural recommendations."
+    ],
+    "farmer_tips": [
+      "Inspect vineyards after rainfall.",
+      "Monitor lower leaves first.",
+      "Avoid dense vine canopies."
+    ]
+  },
+
+  "Grape___healthy": {
+    "display_name": "Healthy Grape Leaf",
+    "scientific_name": "Vitis vinifera",
+    "crop": "Grape",
+    "disease_type": "Healthy",
+    "severity": "None",
+    "description": "The grape leaf appears healthy with no visible signs of disease or nutrient deficiency.",
+    "symptoms": [
+      "Uniform green foliage",
+      "Healthy vine growth",
+      "No lesions or discoloration",
+      "Normal leaf texture"
+    ],
+    "treatment": [
+      "No treatment is required."
+    ],
+    "prevention": [
+      "Maintain balanced nutrition.",
+      "Prune vines annually.",
+      "Monitor vineyards regularly."
+    ],
+    "organic_control": [
+      "Maintain healthy soil using compost.",
+      "Encourage beneficial organisms."
+    ],
+    "chemical_control": [
+      "No chemical treatment is necessary."
+    ],
+    "farmer_tips": [
+      "Continue routine vineyard inspection.",
+      "Maintain good canopy management.",
+      "Avoid water stress."
+    ]
+  },
+
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "display_name": "Citrus Greening (Huanglongbing)",
+    "scientific_name": "Candidatus Liberibacter asiaticus",
+    "crop": "Orange",
+    "disease_type": "Bacterial",
+    "severity": "Very High",
+    "description": "Huanglongbing (HLB), also known as citrus greening, is one of the most destructive citrus diseases. It is transmitted primarily by the Asian citrus psyllid and has no known cure once a tree is infected.",
+    "symptoms": [
+      "Yellow shoots",
+      "Blotchy leaf mottling",
+      "Small, misshapen fruits",
+      "Bitter fruit taste",
+      "Premature fruit drop"
+    ],
+    "treatment": [
+      "Remove severely infected trees to reduce disease spread.",
+      "Control psyllid populations using integrated pest management."
+    ],
+    "prevention": [
+      "Use certified disease-free planting material.",
+      "Monitor orchards frequently.",
+      "Control insect vectors."
+    ],
+    "organic_control": [
+      "Monitor and reduce psyllid populations using approved biological methods.",
+      "Maintain orchard hygiene."
+    ],
+    "chemical_control": [
+      "Apply registered insecticides for psyllid management following local agricultural recommendations."
+    ],
+    "farmer_tips": [
+      "Inspect orchards regularly for psyllids.",
+      "Report suspected infections to local agricultural authorities.",
+      "Never propagate trees from infected plants."
+    ]
+  },
+    "Peach___Bacterial_spot": {
+    "display_name": "Peach Bacterial Spot",
+    "scientific_name": "Xanthomonas arboricola pv. pruni",
+    "crop": "Peach",
+    "disease_type": "Bacterial",
+    "severity": "High",
+    "description": "Bacterial spot is a destructive disease affecting peach leaves, twigs, and fruits. Warm, humid conditions favor disease development, resulting in reduced fruit quality and yield.",
+    "symptoms": [
+      "Small water-soaked leaf spots",
+      "Angular brown lesions",
+      "Shot-hole appearance on leaves",
+      "Sunken dark fruit lesions",
+      "Premature leaf drop"
+    ],
+    "treatment": [
+      "Remove infected twigs and fruits.",
+      "Apply bactericides where recommended.",
+      "Maintain good orchard sanitation."
+    ],
+    "prevention": [
+      "Use disease-free nursery stock.",
+      "Avoid overhead irrigation.",
+      "Prune trees to improve air circulation."
+    ],
+    "organic_control": [
+      "Remove infected plant material promptly.",
+      "Improve airflow through regular pruning."
+    ],
+    "chemical_control": [
+      "Apply copper-based bactericides or other registered products according to local agricultural recommendations."
+    ],
+    "farmer_tips": [
+      "Inspect orchards after rainy weather.",
+      "Disinfect pruning tools.",
+      "Avoid excessive nitrogen fertilization."
+    ]
+  },
+
+  "Peach___healthy": {
+    "display_name": "Healthy Peach Leaf",
+    "scientific_name": "Prunus persica",
+    "crop": "Peach",
+    "disease_type": "Healthy",
+    "severity": "None",
+    "description": "The peach plant appears healthy with vigorous growth and no visible symptoms of disease or pest damage.",
+    "symptoms": [
+      "Uniform green leaves",
+      "Healthy shoot development",
+      "No lesions or discoloration",
+      "Normal fruit development"
+    ],
+    "treatment": [
+      "No treatment is required."
+    ],
+    "prevention": [
+      "Maintain balanced fertilization.",
+      "Prune trees annually.",
+      "Monitor orchards regularly."
+    ],
+    "organic_control": [
+      "Maintain healthy soil using compost.",
+      "Encourage beneficial insects."
+    ],
+    "chemical_control": [
+      "No chemical treatment is necessary."
+    ],
+    "farmer_tips": [
+      "Continue regular orchard scouting.",
+      "Maintain irrigation schedules.",
+      "Practice seasonal pruning."
+    ]
+  },
+
+  "Pepper,_bell___Bacterial_spot": {
+    "display_name": "Bell Pepper Bacterial Spot",
+    "scientific_name": "Xanthomonas euvesicatoria",
+    "crop": "Bell Pepper",
+    "disease_type": "Bacterial",
+    "severity": "High",
+    "description": "Bacterial spot is a serious disease of pepper causing leaf spots, fruit lesions, and yield reduction under warm, wet conditions.",
+    "symptoms": [
+      "Small dark leaf spots",
+      "Yellow halo around lesions",
+      "Leaf drop",
+      "Raised fruit spots",
+      "Reduced fruit quality"
+    ],
+    "treatment": [
+      "Remove infected plants.",
+      "Apply recommended bactericides.",
+      "Avoid working in wet fields."
+    ],
+    "prevention": [
+      "Use certified disease-free seeds.",
+      "Rotate crops.",
+      "Avoid overhead irrigation."
+    ],
+    "organic_control": [
+      "Apply approved copper-based products where appropriate.",
+      "Improve field sanitation."
+    ],
+    "chemical_control": [
+      "Use registered bactericides following local agricultural recommendations."
+    ],
+    "farmer_tips": [
+      "Inspect fields after rainfall.",
+      "Disinfect tools regularly.",
+      "Avoid handling wet plants."
+    ]
+  },
+
+  "Pepper,_bell___healthy": {
+    "display_name": "Healthy Bell Pepper Leaf",
+    "scientific_name": "Capsicum annuum",
+    "crop": "Bell Pepper",
+    "disease_type": "Healthy",
+    "severity": "None",
+    "description": "The pepper plant appears healthy with normal foliage and no visible disease symptoms.",
+    "symptoms": [
+      "Bright green leaves",
+      "Normal plant growth",
+      "No spots or lesions",
+      "Healthy fruit production"
+    ],
+    "treatment": [
+      "No treatment is required."
+    ],
+    "prevention": [
+      "Maintain proper irrigation.",
+      "Monitor plants regularly.",
+      "Apply balanced fertilizers."
+    ],
+    "organic_control": [
+      "Maintain healthy soil.",
+      "Encourage beneficial insects."
+    ],
+    "chemical_control": [
+      "No chemical treatment is necessary."
+    ],
+    "farmer_tips": [
+      "Continue routine monitoring.",
+      "Maintain proper field sanitation.",
+      "Avoid plant stress."
+    ]
+  },
+
+  "Potato___Early_blight": {
+    "display_name": "Potato Early Blight",
+    "scientific_name": "Alternaria solani",
+    "crop": "Potato",
+    "disease_type": "Fungal",
+    "severity": "High",
+    "description": "Early blight is a common fungal disease of potato causing significant yield losses, especially in older plants and under warm conditions.",
+    "symptoms": [
+      "Dark brown leaf spots",
+      "Concentric ring lesions",
+      "Yellowing around lesions",
+      "Premature leaf death"
+    ],
+    "treatment": [
+      "Remove infected foliage.",
+      "Apply recommended fungicides.",
+      "Improve field sanitation."
+    ],
+    "prevention": [
+      "Practice crop rotation.",
+      "Use certified seed tubers.",
+      "Avoid excessive irrigation."
+    ],
+    "organic_control": [
+      "Remove infected leaves promptly.",
+      "Maintain proper plant spacing."
+    ],
+    "chemical_control": [
+      "Apply registered fungicides according to agricultural recommendations."
+    ],
+    "farmer_tips": [
+      "Inspect lower leaves regularly.",
+      "Avoid leaving infected debris in the field.",
+      "Rotate crops every season."
+    ]
+  },
+
+  "Potato___Late_blight": {
+    "display_name": "Potato Late Blight",
+    "scientific_name": "Phytophthora infestans",
+    "crop": "Potato",
+    "disease_type": "Oomycete",
+    "severity": "Very High",
+    "description": "Late blight is one of the most devastating potato diseases. Under cool and humid conditions it spreads rapidly and can destroy entire fields within days.",
+    "symptoms": [
+      "Large water-soaked lesions",
+      "White fungal growth beneath leaves",
+      "Rapid leaf collapse",
+      "Brown tuber rot"
+    ],
+    "treatment": [
+      "Remove infected plants immediately.",
+      "Apply recommended fungicides promptly.",
+      "Improve field drainage."
+    ],
+    "prevention": [
+      "Use certified seed potatoes.",
+      "Avoid prolonged leaf wetness.",
+      "Monitor weather conditions closely."
+    ],
+    "organic_control": [
+      "Destroy infected plants.",
+      "Improve field ventilation."
+    ],
+    "chemical_control": [
+      "Use registered fungicides following local agricultural recommendations."
+    ],
+    "farmer_tips": [
+      "Scout fields daily during humid weather.",
+      "Never store infected tubers.",
+      "Harvest only healthy crops."
+    ]
+  },
+
+  "Potato___healthy": {
+    "display_name": "Healthy Potato Leaf",
+    "scientific_name": "Solanum tuberosum",
+    "crop": "Potato",
+    "disease_type": "Healthy",
+    "severity": "None",
+    "description": "The potato plant appears healthy with vigorous foliage and no visible symptoms of disease.",
+    "symptoms": [
+      "Healthy green leaves",
+      "Normal stem growth",
+      "No lesions",
+      "Healthy canopy"
+    ],
+    "treatment": [
+      "No treatment is required."
+    ],
+    "prevention": [
+      "Continue routine crop monitoring.",
+      "Maintain balanced fertilization.",
+      "Practice crop rotation."
+    ],
+    "organic_control": [
+      "Maintain healthy soil.",
+      "Use compost where appropriate."
+    ],
+    "chemical_control": [
+      "No chemical treatment is necessary."
+    ],
+    "farmer_tips": [
+      "Inspect fields regularly.",
+      "Maintain proper irrigation.",
+      "Monitor for early disease symptoms."
+    ]
+  },
+
+  "Raspberry___healthy": {
+    "display_name": "Healthy Raspberry Leaf",
+    "scientific_name": "Rubus idaeus",
+    "crop": "Raspberry",
+    "disease_type": "Healthy",
+    "severity": "None",
+    "description": "The raspberry plant appears healthy with normal foliage and vigorous growth.",
+    "symptoms": [
+      "Uniform green leaves",
+      "No spots or lesions",
+      "Healthy shoots",
+      "Normal fruit development"
+    ],
+    "treatment": [
+      "No treatment is required."
+    ],
+    "prevention": [
+      "Maintain balanced nutrition.",
+      "Prune old canes.",
+      "Monitor fields regularly."
+    ],
+    "organic_control": [
+      "Maintain soil organic matter.",
+      "Encourage beneficial insects."
+    ],
+    "chemical_control": [
+      "No chemical treatment is necessary."
+    ],
+    "farmer_tips": [
+      "Continue routine monitoring.",
+      "Remove damaged canes.",
+      "Maintain proper spacing."
+    ]
+  },
+    "Soybean___healthy": {
+    "display_name": "Healthy Soybean Leaf",
+    "scientific_name": "Glycine max",
+    "crop": "Soybean",
+    "disease_type": "Healthy",
+    "severity": "None",
+    "description": "The soybean plant appears healthy with vigorous growth and no visible signs of disease, nutrient deficiency, or pest infestation.",
+    "symptoms": [
+      "Uniform green leaves",
+      "Normal plant growth",
+      "No lesions or discoloration",
+      "Healthy pods and stems"
+    ],
+    "treatment": [
+      "No treatment is required."
+    ],
+    "prevention": [
+      "Maintain balanced fertilization.",
+      "Use quality certified seeds.",
+      "Monitor fields regularly."
+    ],
+    "organic_control": [
+      "Maintain healthy soil with organic matter.",
+      "Encourage beneficial insects."
+    ],
+    "chemical_control": [
+      "No chemical treatment is necessary."
+    ],
+    "farmer_tips": [
+      "Inspect crops weekly.",
+      "Maintain proper irrigation.",
+      "Rotate crops to preserve soil health."
+    ]
+  },
+
+  "Squash___Powdery_mildew": {
+    "display_name": "Squash Powdery Mildew",
+    "scientific_name": "Podosphaera xanthii",
+    "crop": "Squash",
+    "disease_type": "Fungal",
+    "severity": "Moderate",
+    "description": "Powdery mildew is a common fungal disease that affects squash leaves, reducing photosynthesis and weakening plant growth if left unmanaged.",
+    "symptoms": [
+      "White powder-like fungal growth",
+      "Leaf yellowing",
+      "Leaf curling",
+      "Premature leaf death"
+    ],
+    "treatment": [
+      "Remove heavily infected leaves.",
+      "Improve air circulation.",
+      "Apply appropriate fungicides if necessary."
+    ],
+    "prevention": [
+      "Avoid overcrowding plants.",
+      "Maintain adequate spacing.",
+      "Monitor fields regularly."
+    ],
+    "organic_control": [
+      "Apply sulfur-based products where appropriate.",
+      "Use neem oil according to label recommendations."
+    ],
+    "chemical_control": [
+      "Apply registered fungicides following agricultural recommendations."
+    ],
+    "farmer_tips": [
+      "Inspect lower leaves regularly.",
+      "Avoid overhead irrigation.",
+      "Remove infected foliage promptly."
+    ]
+  },
+
+  "Strawberry___Leaf_scorch": {
+    "display_name": "Strawberry Leaf Scorch",
+    "scientific_name": "Diplocarpon earlianum",
+    "crop": "Strawberry",
+    "disease_type": "Fungal",
+    "severity": "Moderate",
+    "description": "Leaf scorch is a fungal disease that causes reddish-purple spots on strawberry leaves, eventually reducing plant vigor and fruit yield.",
+    "symptoms": [
+      "Small purple leaf spots",
+      "Dark brown leaf margins",
+      "Leaf drying",
+      "Reduced plant vigor"
+    ],
+    "treatment": [
+      "Remove infected leaves.",
+      "Improve air circulation.",
+      "Apply recommended fungicides when needed."
+    ],
+    "prevention": [
+      "Avoid excessive irrigation.",
+      "Maintain field sanitation.",
+      "Use disease-free planting material."
+    ],
+    "organic_control": [
+      "Remove infected debris after harvest.",
+      "Improve field ventilation."
+    ],
+    "chemical_control": [
+      "Use registered fungicides according to local recommendations."
+    ],
+    "farmer_tips": [
+      "Inspect fields after rainy periods.",
+      "Avoid dense planting.",
+      "Remove infected leaves immediately."
+    ]
+  },
+
+  "Strawberry___healthy": {
+    "display_name": "Healthy Strawberry Leaf",
+    "scientific_name": "Fragaria × ananassa",
+    "crop": "Strawberry",
+    "disease_type": "Healthy",
+    "severity": "None",
+    "description": "The strawberry plant appears healthy with normal foliage and vigorous growth.",
+    "symptoms": [
+      "Healthy green leaves",
+      "No lesions",
+      "Normal flowering",
+      "Healthy fruit production"
+    ],
+    "treatment": [
+      "No treatment is required."
+    ],
+    "prevention": [
+      "Maintain balanced nutrition.",
+      "Monitor fields regularly.",
+      "Provide proper irrigation."
+    ],
+    "organic_control": [
+      "Maintain soil organic matter.",
+      "Encourage beneficial insects."
+    ],
+    "chemical_control": [
+      "No chemical treatment is necessary."
+    ],
+    "farmer_tips": [
+      "Inspect plants weekly.",
+      "Remove old leaves after harvest.",
+      "Maintain clean growing beds."
+    ]
+  },
+
+  "Tomato___Bacterial_spot": {
+    "display_name": "Tomato Bacterial Spot",
+    "scientific_name": "Xanthomonas euvesicatoria",
+    "crop": "Tomato",
+    "disease_type": "Bacterial",
+    "severity": "High",
+    "description": "Bacterial spot is a serious disease affecting tomato leaves, stems, and fruits. It spreads rapidly under warm and humid conditions.",
+    "symptoms": [
+      "Small dark leaf spots",
+      "Yellow halos around lesions",
+      "Fruit spotting",
+      "Premature leaf drop"
+    ],
+    "treatment": [
+      "Remove infected plant material.",
+      "Apply recommended bactericides.",
+      "Avoid working in wet fields."
+    ],
+    "prevention": [
+      "Use disease-free seeds.",
+      "Practice crop rotation.",
+      "Avoid overhead irrigation."
+    ],
+    "organic_control": [
+      "Apply approved copper-based products where appropriate.",
+      "Maintain field sanitation."
+    ],
+    "chemical_control": [
+      "Use registered bactericides following local agricultural recommendations."
+    ],
+    "farmer_tips": [
+      "Inspect fields regularly.",
+      "Disinfect tools.",
+      "Avoid handling wet plants."
+    ]
+  },
+
+  "Tomato___Early_blight": {
+    "display_name": "Tomato Early Blight",
+    "scientific_name": "Alternaria solani",
+    "crop": "Tomato",
+    "disease_type": "Fungal",
+    "severity": "High",
+    "description": "Early blight is a common fungal disease of tomato that causes characteristic concentric lesions on leaves, reducing plant vigor and fruit production.",
+    "symptoms": [
+      "Brown circular lesions with concentric rings",
+      "Yellowing around spots",
+      "Lower leaf infection first",
+      "Premature defoliation"
+    ],
+    "treatment": [
+      "Remove infected leaves.",
+      "Apply recommended fungicides.",
+      "Improve plant spacing."
+    ],
+    "prevention": [
+      "Rotate crops.",
+      "Avoid overhead irrigation.",
+      "Use healthy seedlings."
+    ],
+    "organic_control": [
+      "Remove infected plant debris.",
+      "Mulch around plants."
+    ],
+    "chemical_control": [
+      "Apply registered fungicides according to local recommendations."
+    ],
+    "farmer_tips": [
+      "Inspect lower leaves frequently.",
+      "Water at the base of the plant.",
+      "Keep the field weed-free."
+    ]
+  },
+    "Tomato___Late_blight": {
+    "display_name": "Tomato Late Blight",
+    "scientific_name": "Phytophthora infestans",
+    "crop": "Tomato",
+    "disease_type": "Oomycete",
+    "severity": "Very High",
+    "description": "Late blight is one of the most destructive diseases of tomato. Under cool and humid conditions it spreads rapidly and can destroy an entire crop within a few days if not managed promptly.",
+    "symptoms": [
+      "Large water-soaked leaf lesions",
+      "Dark brown irregular spots",
+      "White fungal growth on leaf undersides",
+      "Stem lesions",
+      "Brown fruit rot"
+    ],
+    "treatment": [
+      "Remove infected plants immediately.",
+      "Apply recommended fungicides at early stages.",
+      "Improve field drainage and air circulation."
+    ],
+    "prevention": [
+      "Use certified disease-free seedlings.",
+      "Avoid overhead irrigation.",
+      "Monitor weather conditions regularly.",
+      "Practice crop rotation."
+    ],
+    "organic_control": [
+      "Remove infected plant debris.",
+      "Maintain proper plant spacing.",
+      "Improve airflow throughout the crop."
+    ],
+    "chemical_control": [
+      "Apply registered fungicides according to local agricultural recommendations."
+    ],
+    "farmer_tips": [
+      "Scout fields daily during humid weather.",
+      "Never compost infected plants.",
+      "Harvest healthy fruits separately."
+    ]
+  },
+
+  "Tomato___Leaf_Mold": {
+    "display_name": "Tomato Leaf Mold",
+    "scientific_name": "Passalora fulva",
+    "crop": "Tomato",
+    "disease_type": "Fungal",
+    "severity": "Moderate",
+    "description": "Leaf mold is a fungal disease commonly found in greenhouse and humid environments. Severe infections reduce photosynthesis and overall crop productivity.",
+    "symptoms": [
+      "Yellow patches on upper leaf surfaces",
+      "Olive-green mold on lower leaf surfaces",
+      "Leaf curling",
+      "Premature leaf drop"
+    ],
+    "treatment": [
+      "Remove infected leaves.",
+      "Reduce greenhouse humidity.",
+      "Apply appropriate fungicides if required."
+    ],
+    "prevention": [
+      "Ensure adequate ventilation.",
+      "Avoid excessive humidity.",
+      "Maintain proper plant spacing."
+    ],
+    "organic_control": [
+      "Improve greenhouse ventilation.",
+      "Remove infected foliage."
+    ],
+    "chemical_control": [
+      "Use registered fungicides according to agricultural recommendations."
+    ],
+    "farmer_tips": [
+      "Ventilate protected cultivation structures.",
+      "Avoid wet foliage.",
+      "Inspect lower leaves regularly."
+    ]
+  },
+
+  "Tomato___Septoria_leaf_spot": {
+    "display_name": "Tomato Septoria Leaf Spot",
+    "scientific_name": "Septoria lycopersici",
+    "crop": "Tomato",
+    "disease_type": "Fungal",
+    "severity": "High",
+    "description": "Septoria leaf spot is a common fungal disease that primarily affects older tomato leaves, reducing plant vigor and fruit yield.",
+    "symptoms": [
+      "Small circular gray spots",
+      "Dark margins around lesions",
+      "Tiny black fruiting bodies",
+      "Lower leaves affected first",
+      "Premature defoliation"
+    ],
+    "treatment": [
+      "Remove infected leaves.",
+      "Apply recommended fungicides.",
+      "Improve field sanitation."
+    ],
+    "prevention": [
+      "Rotate crops.",
+      "Avoid overhead irrigation.",
+      "Remove crop debris after harvest."
+    ],
+    "organic_control": [
+      "Remove infected foliage promptly.",
+      "Maintain adequate plant spacing."
+    ],
+    "chemical_control": [
+      "Apply registered fungicides according to local recommendations."
+    ],
+    "farmer_tips": [
+      "Inspect lower leaves every week.",
+      "Keep weeds under control.",
+      "Avoid working in wet fields."
+    ]
+  },
+
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "display_name": "Tomato Spider Mites",
+    "scientific_name": "Tetranychus urticae",
+    "crop": "Tomato",
+    "disease_type": "Pest Infestation",
+    "severity": "Moderate",
+    "description": "Two-spotted spider mites are tiny sap-feeding pests that damage tomato leaves, reducing photosynthesis and weakening plants under hot, dry conditions.",
+    "symptoms": [
+      "Tiny yellow speckles on leaves",
+      "Fine webbing",
+      "Leaf bronzing",
+      "Premature leaf drop"
+    ],
+    "treatment": [
+      "Remove heavily infested leaves.",
+      "Introduce natural predators where appropriate.",
+      "Apply recommended miticides if necessary."
+    ],
+    "prevention": [
+      "Monitor plants regularly.",
+      "Avoid drought stress.",
+      "Maintain field hygiene."
+    ],
+    "organic_control": [
+      "Use insecticidal soap or neem oil according to recommendations.",
+      "Encourage predatory mites."
+    ],
+    "chemical_control": [
+      "Use registered miticides according to local agricultural recommendations."
+    ],
+    "farmer_tips": [
+      "Inspect leaf undersides regularly.",
+      "Increase humidity where practical.",
+      "Avoid excessive pesticide use that harms beneficial insects."
+    ]
+  },
+    "Tomato___Target_Spot": {
+    "display_name": "Tomato Target Spot",
+    "scientific_name": "Corynespora cassiicola",
+    "crop": "Tomato",
+    "disease_type": "Fungal",
+    "severity": "High",
+    "description": "Target spot is a fungal disease that affects tomato leaves, stems, and fruits. Severe infections reduce photosynthesis, weaken plants, and lower fruit yield.",
+    "symptoms": [
+      "Circular brown lesions with concentric rings",
+      "Yellow halo surrounding lesions",
+      "Leaf yellowing",
+      "Premature defoliation",
+      "Dark lesions on fruits"
+    ],
+    "treatment": [
+      "Remove infected leaves and fruits.",
+      "Improve air circulation within the crop.",
+      "Apply recommended fungicides when disease pressure is high."
+    ],
+    "prevention": [
+      "Practice crop rotation.",
+      "Avoid overhead irrigation.",
+      "Maintain proper plant spacing.",
+      "Remove crop residues after harvest."
+    ],
+    "organic_control": [
+      "Remove infected plant debris.",
+      "Improve field ventilation.",
+      "Apply approved biological fungicides where appropriate."
+    ],
+    "chemical_control": [
+      "Use registered fungicides according to local agricultural recommendations."
+    ],
+    "farmer_tips": [
+      "Inspect lower leaves regularly.",
+      "Avoid excessive canopy density.",
+      "Remove infected foliage promptly."
+    ]
+  },
+
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "display_name": "Tomato Yellow Leaf Curl Virus",
+    "scientific_name": "Tomato yellow leaf curl virus (TYLCV)",
+    "crop": "Tomato",
+    "disease_type": "Viral",
+    "severity": "Very High",
+    "description": "Tomato Yellow Leaf Curl Virus is one of the most destructive viral diseases of tomato. It is primarily transmitted by whiteflies and can cause severe yield losses.",
+    "symptoms": [
+      "Upward curling of leaves",
+      "Yellowing between veins",
+      "Stunted plant growth",
+      "Reduced flowering",
+      "Poor fruit development"
+    ],
+    "treatment": [
+      "There is no cure for infected plants.",
+      "Remove severely infected plants.",
+      "Control whitefly populations."
+    ],
+    "prevention": [
+      "Use virus-free seedlings.",
+      "Manage whiteflies effectively.",
+      "Use resistant tomato varieties where available.",
+      "Remove weeds that may act as virus hosts."
+    ],
+    "organic_control": [
+      "Use yellow sticky traps for whiteflies.",
+      "Encourage natural predators of whiteflies.",
+      "Apply neem oil according to recommendations."
+    ],
+    "chemical_control": [
+      "Apply registered insecticides for whitefly management following local agricultural recommendations."
+    ],
+    "farmer_tips": [
+      "Monitor whitefly populations weekly.",
+      "Remove infected plants immediately.",
+      "Maintain strict field sanitation."
+    ]
+  },
+
+  "Tomato___Tomato_mosaic_virus": {
+    "display_name": "Tomato Mosaic Virus",
+    "scientific_name": "Tomato mosaic virus (ToMV)",
+    "crop": "Tomato",
+    "disease_type": "Viral",
+    "severity": "High",
+    "description": "Tomato Mosaic Virus is a contagious viral disease that spreads through infected plant material, contaminated tools, and human handling. It reduces plant vigor and fruit quality.",
+    "symptoms": [
+      "Light and dark green mosaic patterns on leaves",
+      "Leaf curling and distortion",
+      "Stunted growth",
+      "Reduced fruit size",
+      "Uneven fruit ripening"
+    ],
+    "treatment": [
+      "There is no cure for infected plants.",
+      "Remove infected plants promptly.",
+      "Disinfect tools after handling infected plants."
+    ],
+    "prevention": [
+      "Use certified disease-free seeds.",
+      "Wash hands before handling plants.",
+      "Disinfect tools regularly.",
+      "Avoid tobacco contamination during field work."
+    ],
+    "organic_control": [
+      "Remove infected plants immediately.",
+      "Maintain strict field hygiene."
+    ],
+    "chemical_control": [
+      "No chemical treatment is available for viral infections."
+    ],
+    "farmer_tips": [
+      "Avoid handling healthy plants after infected ones.",
+      "Disinfect equipment regularly.",
+      "Purchase certified seeds from reliable suppliers."
+    ]
+  },
+
+  "Tomato___healthy": {
+    "display_name": "Healthy Tomato Leaf",
+    "scientific_name": "Solanum lycopersicum",
+    "crop": "Tomato",
+    "disease_type": "Healthy",
+    "severity": "None",
+    "description": "The tomato plant appears healthy with vigorous growth, uniform green foliage, and no visible signs of disease, pest infestation, or nutrient deficiency.",
+    "symptoms": [
+      "Healthy green leaves",
+      "Normal flowering",
+      "Healthy fruit development",
+      "No lesions or discoloration",
+      "Strong stem growth"
+    ],
+    "treatment": [
+      "No treatment is required."
+    ],
+    "prevention": [
+      "Continue routine crop monitoring.",
+      "Maintain balanced fertilization.",
+      "Provide proper irrigation.",
+      "Monitor pests and diseases regularly."
+    ],
+    "organic_control": [
+      "Maintain healthy soil using compost.",
+      "Encourage beneficial insects.",
+      "Practice crop rotation."
+    ],
+    "chemical_control": [
+      "No chemical treatment is necessary."
+    ],
+    "farmer_tips": [
+      "Inspect crops weekly.",
+      "Maintain good field sanitation.",
+      "Remove weeds regularly.",
+      "Harvest fruits at proper maturity."
+    ]
+  }
+}
